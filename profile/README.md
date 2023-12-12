@@ -1,5 +1,7 @@
 ## Repository Guide
 
+Below are some of the key repositories developed by the RCPCH.
+
 ### Digital Growth Charts (dGC)
 
 The RCPCH has developed some digital versions of the paper child growth charts which have been in use for decades. To enable these charts to be work in a variety of use-cases, and to reduce development complexity, the dGC platform has been separated into a number of different repositories
@@ -28,6 +30,8 @@ These repositories are support services or ancillary services and data collectio
 
 #### Deprecated dGC repos
 
+These repositories are deprecated and no longer updated.
+
 * [digital-growth-charts-react-client-node-server](https://github.com/rcpch/digital-growth-charts-react-client-node-server) this Node.js server was briefly used to proxy requests between the demo site and the live server API, in order to allow us to securely inject API access credentials into the requests. Now no longer used because Gravitee.io API Management platform is much better than the old Azure one, so we don't need this.
 
 * [digital-growth-charts-flask-client](https://github.com/rcpch/digital-growth-charts-flask-client) this was the original [Flask](https://flask.palletsprojects.com/) implementation of the Growth Chart API, which also at one stage included the display elements of the charts. We elected later to separate out the display from the API and also to replatform the API onto [FastAPI](https://fastapi.tiangolo.com/).
@@ -40,4 +44,4 @@ These repositories are support services or ancillary services and data collectio
 
 The RCPCH Audit Engine is the data platform underlying the Epilepsy12 National Audit of Epilepsy Care
 
-* [rcpch-audit-engine](https://github.com/rcpch/rcpch-audit-engine)
+* [rcpch-audit-engine](https://github.com/rcpch/rcpch-audit-engine) is a Django application which manages the Epilepsy12 audit.
