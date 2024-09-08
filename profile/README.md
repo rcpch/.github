@@ -97,6 +97,10 @@ There are 2 services that are open access and unmetered. These are used to suppo
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/rcpch-nhs-organisations?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/rcpch-nhs-organisations?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
+### Getting involved
+
+If you want to contribute to any of our projects, there is more information in our [playbook](https://playbook.rcpch.tech/)
+
 ---
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/rcpch?style=for-the-badge&labelColor=%2311a7f2&color=%230d0d58)
