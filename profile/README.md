@@ -76,7 +76,8 @@ The RCPCH Audit Engine is the data platform underlying the Epilepsy12 National A
 ### National Paediatric Diabetes Audit (NPDA)
 
 This is the data platform supporting the NPDA. It is currently in development and sits in its own project. In time it will included in the RCPCH Audit Engine
-* [national-paediatric-diabetes-audit]([https://github.com/rcpch/](https://github.com/rcpch/national-paediatric-diabetes-audit)) is a Django application which manages the NPDA.<br/>
+
+* [national-paediatric-diabetes-audit](https://github.com/rcpch/national-paediatric-diabetes-audit) is a Django application which manages the NPDA.<br/>
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/national-paediatric-diabetes-audit?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/national-paediatric-diabetes-audit?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/national-paediatric-diabetes-audit?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
