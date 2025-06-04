@@ -31,14 +31,19 @@ These repositories are key to the functioning of the dGC platform.
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/digital-growth-charts-react-component-library?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-react-component-library?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
-* [digital-growth-charts-react-client](https://github.com/rcpch/digital-growth-charts-react-client) is a React 18.2 JS demo client available [here](https://growth.rcpch.ac.uk). It has documentation for clinicians, implementers and developers.<br/>
+* [digital-growth-charts-react-client](https://github.com/rcpch/digital-growth-charts-react-client) is a React demo client available [here](https://growth.rcpch.ac.uk). It has documentation for clinicians, implementers and developers.<br/>
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/digital-growth-charts-react-client?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/digital-growth-charts-react-client?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/digital-growth-charts-react-client?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-react-client?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
 
-* [digital-growth-charts-hazard-log](https://github.com/rcpch/digital-growth-charts-hazard-log) contains the Hazard Log for our dGC clinical service - and is where we can discuss and mitigate all aspects of the risks associated with the clinical software and its deployment
+* [digital-growth-charts-documentation](https://github.com/rcpch/digital-growth-charts-documentation) contains all documentation for the Digital Growth Charts project and the Hazard Log for our dGC clinical service - and is where we can discuss and mitigate all aspects of the risks associated with the clinical software and its deployment.  
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+
 
 #### Ancillary dGC repos
 
@@ -49,6 +54,7 @@ These repositories are support services or ancillary services and data collectio
 * [growth-references](https://github.com/rcpch/growth-references) is a repository containing the raw data from the statistical references which are used to generate growth chart information. It is mainly of interest to academics and stats nerds.
 
 * [digital-growth-charts-react-native-client](https://github.com/rcpch/digital-growth-charts-react-native-client) is a work in progress, pre-alpha React Native version of the charts display, which is designed to work better on smaller mobile screens. It was experimental and is not an official part of the project.
+
 
 #### Deprecated dGC repos
 
