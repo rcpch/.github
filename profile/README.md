@@ -38,12 +38,18 @@ These repositories are key to the functioning of the dGC platform.
 ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-react-client?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
 
-* [digital-growth-charts-documentation](https://github.com/rcpch/digital-growth-charts-documentation) contains all documentation for the Digital Growth Charts project and the Hazard Log for our dGC clinical service - and is where we can discuss and mitigate all aspects of the risks associated with the clinical software and its deployment.  
+* [digital-growth-charts-documentation](https://github.com/rcpch/digital-growth-charts-documentation) contains all documentation for the Digital Growth Charts project and the Hazard Log for our dGC clinical service - and is where we can discuss and mitigate all aspects of the risks associated with the clinical software and its deployment. <br/> 
   ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
   ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
   ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
+
+* [digital-growth-charts-app](https://github.com/rcpch/digital-growth-charts-app) is a flutter app still in alpha that uses the digital growth charts API. No growth references are bundled in, these are pulled down on use and persisted for the duration of the session.<br/>
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
 #### Ancillary dGC repos
 
