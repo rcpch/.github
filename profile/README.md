@@ -24,7 +24,7 @@ These repositories are key to the functioning of the dGC platform.
 ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-server?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
 
-* [digital-growth-charts-react-component-library](https://github.com/rcpch/digital-growth-charts-react-component-library) is a React 18.2 Typescript component library which 'knows' how to display the results from the REST API, as a familiar digital growth chart.<br/>
+* [digital-growth-charts-react-component-library](https://github.com/rcpch/digital-growth-charts-react-component-library) is a React Typescript component library which 'knows' how to display the results from the REST API, as a familiar digital growth chart.<br/>
 ![NPM Version](https://img.shields.io/npm/v/%40rcpch%2Fdigital-growth-charts-react-component-library?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/digital-growth-charts-react-component-library?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/digital-growth-charts-react-component-library?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
@@ -45,7 +45,7 @@ These repositories are key to the functioning of the dGC platform.
   ![GitHub Repo stars](https://img.shields.io/github/stars/RCPCH/digital-growth-charts-documentation?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 
 
-* [digital-growth-charts-app](https://github.com/rcpch/digital-growth-charts-app) is a flutter app still in alpha that uses the digital growth charts API. No growth references are bundled in, these are pulled down on use and persisted for the duration of the session.<br/>
+* [digital-growth-charts-app](https://github.com/rcpch/digital-growth-charts-app) is a Flutter app still in alpha that uses the Digital Growth Charts API. No growth references are bundled in, these are pulled down on use and persisted for the duration of the session.<br/>
   ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
   ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/digital-growth-charts-app?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
@@ -65,6 +65,8 @@ These repositories are support services or ancillary services and data collectio
 #### Deprecated dGC repos
 
 These repositories are deprecated and no longer updated.
+
+* [rcpch/rcpchgrowth-python-cli](https://github.com/rcpch/rcpchgrowth-python-cli) was a CLI tool built in [Click](https://click.palletsprojects.com/en/stable/) which used the RCPCHGrowth Python package to calculate growth parameters on the command line. It was a thin wrapper around the Python package, and currently it is archived. If anyone is using it and would like to be its maintainer/developer then please contact us.
 
 * [digital-growth-charts-react-client-node-server](https://github.com/rcpch/digital-growth-charts-react-client-node-server) this Node.js server was briefly used to proxy requests between the demo site and the live server API, in order to allow us to securely inject API access credentials into the requests. Now no longer used because Gravitee.io API Management platform is much better than the old Azure one, so we don't need this.
 
