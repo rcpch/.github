@@ -66,7 +66,7 @@ These repositories are support services or ancillary services and data collectio
 
 These repositories are deprecated and no longer updated.
 
-* [rcpch/rcpchgrowth-python-cli](https://github.com/rcpch/rcpchgrowth-python-cli) was a CLI tool built in [Click](https://click.palletsprojects.com/en/stable/) which used the RCPCHGrowth Python package to calculate growth parameters on the command line. It was a thin wrapper around the Python package, and currently it is archived. If anyone is using it and would like to be its maintainer/developer then please contact us.
+* [rcpchgrowth-python-cli](https://github.com/rcpch/rcpchgrowth-python-cli) was a CLI tool built in [Click](https://click.palletsprojects.com/en/stable/) which used the RCPCHGrowth Python package to calculate growth parameters on the command line. It was a thin wrapper around the Python package, and currently it is archived. If anyone is using it and would like to be its maintainer/developer then please contact us.
 
 * [digital-growth-charts-react-client-node-server](https://github.com/rcpch/digital-growth-charts-react-client-node-server) this Node.js server was briefly used to proxy requests between the demo site and the live server API, in order to allow us to securely inject API access credentials into the requests. Now no longer used because Gravitee.io API Management platform is much better than the old Azure one, so we don't need this.
 
