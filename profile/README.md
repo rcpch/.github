@@ -103,7 +103,7 @@ This is the data platform supporting the NPDA. It is currently in development an
 
 There are 2 services that are open access and unmetered. These are used to support the audits, but will power other projects in time
 
-* [rcpch-census-platform](https://github.com/rcpch/rcpch-census-platform) is a django rest framework project that holds data describing the lived environment of children and young people in the UK. Currently the main application returns indices of multiple deprivation scores and quantiles against a postcode. It holds some census data also about access to green space.<br/>
+* [rcpch-census-platform](https://github.com/rcpch/rcpch-census-platform) is a django rest framework project that holds data describing the lived environment of children and young people in the UK. Currently the main application returns indices of multiple deprivation scores and quantiles against a postcode. It holds some census data also about access to green space. It also provide map tiles of health deprivation and health geographies - see [working demo](https://rcpch.github.io/rcpch-census-platform/), supported by [this mapping library](https://github.com/rcpch/rcpch-mapping-component)<br/>
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/rcpch/rcpch-census-platform?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/rcpch/rcpch-census-platform?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rcpch/rcpch-census-platform?style=flat-square&labelColor=%2311a7f2&color=%230d0d58)
